@@ -6,4 +6,4 @@ To run the app
 3. Run `streamlit run app.py` in the terminal
 
 
-TODO: Sample fewer data points for larger counties (San Bernardino County CA, Coconino County, AZ, etc.) to improve load times. 
+TODO: Sample fewer data points for larger counties (San Bernardino County CA, Coconino County, AZ, Nye County, NV, etc.) to improve load times. 
